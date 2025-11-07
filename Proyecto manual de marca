@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VIVO 2025</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="#participar">PARTICIPAR</a></li>
+        <li><a href="#ausipciantes">AUSIPCIANTES</a></li>
+        <li><a href="#stream">STREAM</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="participar">
+      <h2>Participar</h2>
+      <p>Sumate al evento completando el formulario y reservá tu lugar para las actividades en vivo.</p>
+    </section>
+
+    <section id="ausipciantes">
+      <h2>Ausipciantes</h2>
+      <p>Marcas aliadas que impulsan el evento y apoyan este espacio de creación digital.</p>
+    </section>
+
+    <section id="stream">
+      <h2>Stream</h2>
+      <p>Transmisión principal en vivo durante 48hs con creadores y público interactuando en tiempo real.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 VIVO 2025</p>
+  </footer>
+
+</body>
+</html>
